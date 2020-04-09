@@ -4,6 +4,10 @@ A [Ulauncher](https://ulauncher.io/) extension for looking up dictionary definit
 
 The dictionary file is generated from http://www.mso.anu.edu.au/~ralph/OPTED/.
 
+## Demo
+
+![image](demo.gif)
+
 ## Installation
 
 Open ulauncher, go to `Preferences > Extensions > Add extension` and
