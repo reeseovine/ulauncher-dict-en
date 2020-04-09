@@ -1,0 +1,19 @@
+{
+  "name": "English dictionary extension",
+  "description": "Look up dictionary definitions of English words. Press Enter to bring up the Wiktionary page for that word.",
+  "developer_name": "Reese Jacobson",
+  "icon": "images/icon.png",
+  "required_api_version": "^2.0.0",
+  "options": {
+    "query_debounce": 0.05
+  },
+  "preferences": [
+    {
+      "id": "dict-en",
+      "type": "keyword",
+      "name": "Define",
+      "description": "Look up dictionary definitions of English words.",
+      "default_value": "def"
+    }
+  ]
+}
