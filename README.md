@@ -4,6 +4,8 @@ A [Ulauncher](https://ulauncher.io/) extension for looking up dictionary definit
 
 The dictionary file is generated from http://www.mso.anu.edu.au/~ralph/OPTED/.
 
+**NOTE:** I will not be developing this extension any further as I no longer use Ulauncher. Feel free to fork this repo if there are changes you'd like to see implemented.
+
 ## Demo
 
 ![image](demo.gif)
